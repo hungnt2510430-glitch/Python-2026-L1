@@ -5,5 +5,5 @@ USTH Advanced Programming with Python 2026
 * 2510430
 
 * [labwork1_py.py](url)
-*labwork1b_py.py
-*labwork3_py.py
+* [labwork1b_py.py](url)
+* [labwork3_py.py](url)
